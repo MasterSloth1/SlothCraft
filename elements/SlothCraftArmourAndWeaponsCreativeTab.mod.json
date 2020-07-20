@@ -1,0 +1,11 @@
+{
+  "_fv": 8,
+  "_type": "tab",
+  "definition": {
+    "name": "SlothCraft Armour And Weapons",
+    "icon": {
+      "value": "CUSTOM:KnifeItem"
+    },
+    "showSearch": true
+  }
+}
